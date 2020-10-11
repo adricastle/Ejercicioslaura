@@ -8,8 +8,8 @@ namespace Ejercicio1
         {
             String x=" ";
 
-            Console.WriteLine("Hello World!");
-            /*Console.ReadLine();*/
+            Console.WriteLine("Hola mundo!");
+            
             
         }
     }
